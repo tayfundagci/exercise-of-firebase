@@ -12,7 +12,7 @@ const messagingsenderid = process.env.REACT_APP_FIREBASE_MESSAGINGSENDERID;
 const firebaseConfig = {
   apiKey: "AIzaSyAGMZyuJslEws0OiWTPEsqrafKpJFRj3JQ",
   authDomain: `${authdomain}`,
-  projectId: `${projectId}`,
+  projectId: "kitaplik-b339c",
   storageBucket: `${storagebucket}`,
   messagingSenderId: `${messagingsenderid}`,
   appId: `${appid}`,
